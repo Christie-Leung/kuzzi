@@ -1,3 +1,5 @@
+import NavBar from "@/components/navbar"
+
 export default async function SetupLayout({
   children
 }: {
@@ -7,6 +9,7 @@ export default async function SetupLayout({
 
   return (
     <>
+      <NavBar />
       {children}
     </>
   )
