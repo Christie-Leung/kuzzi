@@ -1,0 +1,96 @@
+{
+  "hero":{
+    "h2": "What happens to",
+    "h1": "OLD CLOTHES?"
+  },
+  "truckLandfill": {
+    "h2": "One truckload is unloaded",
+    "h1": "EVERY SECOND."
+  },
+  "quizQuestions": [
+    {
+      "Question": "Question 1. ",
+      "Option": [
+        {
+          "answer": "A. idk",
+          "img": "/kuzzi_black_logo.png"
+        },
+        {
+          "answer": "B. something",
+          "img": ""
+        },
+        {
+          "answer": "C. omo",
+          "img": ""
+        },
+        {
+          "answer": "D. shib",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "Question": "",
+      "Option": [
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "Question": "",
+      "Option": [
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "Question": "",
+      "Option": [
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        },
+        {
+          "answer": "",
+          "img": ""
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@ const BackDrop = () => {
   }
 
   return ( 
-    <div className={`grid justify-items-center w-full bg-mainbg`}>
+    <div className={`absolute top-0 justify-items-center w-full bg-mainbg`}>
         <Image src={logo} alt="KUZZI. logo" className="items-center"/>
       </div>
    );
